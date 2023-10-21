@@ -1,5 +1,7 @@
 # Scaling-Normalization-Log-transformation loop and also using built in libraries 
-Here some of **DATA Pre-processing** techniques are intoduced
+Here some of **DATA Pre-processing** techniques are intoduced.
+
+We tried to impliment those method using built in libraries and also menually using loop and other variables when needed  
 - **Scaling:** Scaling refers to the process of standardizing or normalizing the numerical features of your dataset. It's often used to bring all the features to a similar scale or range, typically between 0 and 1 or with a mean of 0 and a standard deviation of 1. Common methods for scaling include Min-Max scaling and Z-score scaling (Standardization).
 
 - **Normalization:** Normalization is a specific type of scaling that typically refers to scaling features to have a mean of 0 and a standard deviation of 1. This makes the data follow a normal distribution (bell curve), which can be useful in some machine learning algorithms.
